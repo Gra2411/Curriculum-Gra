@@ -27,7 +27,7 @@ public class UserModel {
 
     private String email;
 
-    private Integer phoneNumber;
+    private String phoneNumber;
 
     private List<Skills> skills;
 
